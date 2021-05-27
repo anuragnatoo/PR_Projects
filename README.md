@@ -1,5 +1,5 @@
 # PR_Projects
-This repository contains Pattern Recognition Course Project Files.
+This repository contains Pattern Recognition Course Project Files and assignments.
 
 ### List of Projects
 1. Digit classifications from hand signs using CNN
